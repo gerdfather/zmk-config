@@ -27,7 +27,7 @@
 &kp C_MUTE  &kp TAB    &kp Q     &kp W     &kp E      &kp R           &kp T   &kp Y     &kp U     &kp I      &kp O    &kp P     &kp LBKT  &kp RBKT  &kp RET   &kp PG_DN
 &kp F13     &mo 1      &kp A     &kp S     &kp D      &kp F           &kp G   &kp H     &kp J     &kp K      &kp L    &kp SEMI  &kp SQT   &kp NUHS            &kp HOME
 &kp F14     &kp LSHFT  &kp NUBS  &kp Z     &kp X      &kp C   &kp V   &kp B   &kp N     &kp M     &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT           &kp UP    &kp END
-&kp F15     &kp LCTRL  &kp LGUI  &kp LALT  &kp SPACE                  &mo 1   &kp BSPC  &kp RALT  &mo 1                                   &kp LEFT  &kp DOWN  &kp RIGHT
+&kp F15     &kp LCTRL  &kp LGUI  &kp LALT  &kp SPACE                  &mo 1             &kp RALT  &mo 1                                   &kp LEFT  &kp DOWN  &kp RIGHT
 			>;
 		};
 		function_layer {
@@ -40,7 +40,7 @@
 &trans      &trans       &trans  &trans  &trans  &trans          &trans  &kp HOME  &kp HOME  &kp END  &kp END    &kp DEL   &trans   &trans     &trans    &trans
 &trans      &trans       &trans  &trans  &trans  &trans          &trans  &kp LEFT  &kp DOWN  &kp UP   &kp RIGHT  &trans    &trans   &trans               &trans
 &trans      &trans       &trans  &trans  &trans  &trans  &trans  &trans  &kp HOME  &kp HOME  &kp END  &kp END    &kp DEL   &trans              &kp UP    &trans
-&trans      &trans       &trans  &trans  &trans                  &trans  &trans    &trans    &trans                                 &kp LEFT   &kp DOWN  &kp RIGHT
+&trans      &trans       &trans  &trans  &trans                  &trans            &trans    &trans                                 &kp LEFT   &kp DOWN  &kp RIGHT
 			>;
 		};
 	};
